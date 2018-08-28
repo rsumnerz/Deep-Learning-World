@@ -716,8 +716,6 @@ Machine Translation
 Summarization
 -----------------------
 
-* **Legal Case Reports Data Set** as a textual corpus of 4000 legal cases for automatic summarization and citation analysis.:
-  [`Link <https://archive.ics.uci.edu/ml/datasets/Legal+Case+Reports>`_]
 
 
 ======================================
